@@ -21,7 +21,7 @@ body {
   background-color: var(--light-gray);
 }
 
-.card {
+.main {
   position: absolute;
   left: 50%;
   top: 50%;
