@@ -29,8 +29,8 @@ This challenge is to build a QR code component and get to look as close to the d
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jerome-Nel/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://jerome-nel.github.io/qr-code-component/)
+- Solution URL: [https://github.com/Jerome-Nel/qr-code-component.git]
+- Live Site URL: [https://jerome-nel.github.io/qr-code-component/]
 
 ## My process
 
