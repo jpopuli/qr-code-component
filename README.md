@@ -23,9 +23,9 @@ This challenge is to build a QR code component and get to look as close to the d
 
 ### Screenshot
 
-- Mobile view: [Screenshot for Mobile view](./screenshot/mobile-view.PNG)
+![Screenshot for Mobile view](./screenshot/mobile-view.PNG)
 
-- Desktop view: [Screenshot for Desktop view](./screenshot/desktop-view.PNG)
+![Screenshot for Desktop view](./screenshot/desktop-view.PNG)
 
 ### Links
 
