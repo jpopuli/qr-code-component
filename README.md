@@ -23,14 +23,14 @@ This challenge is to build a QR code component and get to look as close to the d
 
 ### Screenshot
 
-![Screenshot for Mobile view](./screenshot/mobile-view.PNG)
+- Mobile view: [Screenshot for Mobile view](./screenshot/mobile-view.PNG)
 
-![Screenshot for Desktop view](./screenshot/desktop-view.PNG)
+- Desktop view: [Screenshot for Desktop view](./screenshot/desktop-view.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Jerome-Nel/qr-code-component.git)
+- Live Site URL: [Add live site URL here](https://jerome-nel.github.io/qr-code-component/)
 
 ## My process
 
